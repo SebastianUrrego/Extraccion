@@ -1,0 +1,3 @@
+/home/lab/Desktop/Taller1corte2/CMakeFiles/rebuild_cache.dir
+/home/lab/Desktop/Taller1corte2/CMakeFiles/Taller1Vision.dir
+/home/lab/Desktop/Taller1corte2/CMakeFiles/edit_cache.dir

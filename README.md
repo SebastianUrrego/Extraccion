@@ -1,4 +1,4 @@
-# Parcial Segundo Corte — Visión por Computador
+# Taller Segundo Corte — Visión por Computador
 **Universidad Sergio Arboleda**
 
 Análisis comparativo de detectores y descriptores de características con Feature Matching y Homografía usando OpenCV en C++.

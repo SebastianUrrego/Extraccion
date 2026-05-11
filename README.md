@@ -100,6 +100,14 @@ Las 4 imágenes se guardan como PNG en la carpeta del ejecutable.
 
 ---
 
+Imagen de Keypoints objetivos
+<img width="492" height="423" alt="image" src="https://github.com/user-attachments/assets/18c85b5a-83de-4fc7-bdb2-29a315142068" />
+
+Mejor Match
+<img width="1272" height="522" alt="image" src="https://github.com/user-attachments/assets/abb3d70c-6253-4905-90bf-9da6c03675f6" />
+
+---
+
 ## Reglas de compatibilidad
 
 - **FAST** solo acepta descriptores binarios (ORB, BRIEF, FREAK, BRISK) — no tiene espacio de escala para SIFT/SURF.
